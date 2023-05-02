@@ -1,11 +1,11 @@
 db:
-  name: "telegram2reddit"
-  host: "localhost"
+  name: "r2t"
+  host: "152.70.69.6"
 telegram:
-  token: "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
-  dev_chat: "-1001137074864"
-  papa: "1234567"
-sentry: "https://TOP:SECRET@sentry.io/CODE"
+  token: "6234000705:AAFGI05fqrxIWcTxPK0z7lBTAnbamU2iAz0"
+  dev_chat: "-1001705755126"
+  papa: "507910289"
+sentry: ""
 reddit:
   user_agent: "Secret:Reddit_user_agent:v01 (by any /u/redditor)"
   client_id: "client_id"
